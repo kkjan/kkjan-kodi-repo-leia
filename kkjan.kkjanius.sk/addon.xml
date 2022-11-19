@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="kkjan.kkjanius.sk" name="kkjan kodi Repository" version="0.1.0" provider-name="kkjan">
+    <extension point="xbmc.addon.repository" name="kkjan kodi Repository">
+        <info compressed="false">https://raw.githubusercontent.com/kkjan/kkjan-kodi-repo-leia/main/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/kkjan/kkjan-kodi-repo-leia/main/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/kkjan/kkjan-kodi-repo-leia/main/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>kkjan Repository</summary>
+        <description>A repository of add-ons that kkjan developed for a personal Kodi system</description>
+        <disclaimer></disclaimer>
+        <news>0.1.0
+- initial</news>
+        <platform>all</platform>
+        <language></language>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <forum></forum>
+        <website></website>
+        <source>https://github.com/kkjan/kkjan-kodi-repo-addon-leia</source>
+        <email>ja dot schm at gmail dot com</email>
+    </extension>
+</addon>
